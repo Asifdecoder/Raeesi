@@ -376,7 +376,9 @@ html {
     font-size: 5vmax;
   }
   .section #winter {
-    font-size: 4vmax;
+    /* font-size: 7min-height; */
+    min-height: 12px;
+
   }
   .foot {
     width: 200vmax;
