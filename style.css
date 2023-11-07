@@ -12,6 +12,7 @@
 body {
   font-size: 62.5%;
   height: 100vh;
+ 
 }
 
 #nav {
@@ -26,6 +27,7 @@ body {
   z-index: 99;
   background: transparent;
   backdrop-filter: blur(15px);
+ 
 }
 #logo {
   height: 1.5rem;
@@ -316,12 +318,12 @@ html {
   src: url(./gilroy/Gilroy-Medium.ttf);
 }
 
-@media (max-width: 768px) {
+ /* @media (max-width: 768px) {
   #nav {
-    width: 100%;
+    width: 100%; */
     /* background-color: red; */
     /* backdrop-filter: blur(10px); */
-    background-color: white;
+    /* background-color: white;
 
     height: 35vh;
   }
@@ -343,13 +345,13 @@ html {
     
   }
 
-  .car {
+  .car { */
     /* background-color: red; */
-    width: 200vmax;
+    /* width: 200vmax; */
     /* margin-top: 6vh; */
-    padding-top: 15px;
-  }
-  .grids {
+    /* padding-top: 15px; */
+  /* } */
+  /* .grids {
     width: 200vmax;
   }
   .grid2 {
@@ -376,7 +378,7 @@ html {
     font-size: 5vmax;
   }
   .section #winter {
-    /* font-size: 7min-height; */
+    font-size: 7min-height;
     min-height: 12px;
 
   }
@@ -386,4 +388,4 @@ html {
   .locar {
     width: 200vmax;
   }
-}
+}  */
